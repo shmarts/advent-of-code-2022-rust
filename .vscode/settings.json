@@ -3,31 +3,5 @@
     "editor.defaultFormatter": "rust-lang.rust-analyzer",
     "editor.formatOnSave": true
   },
-  "rust-analyzer.diagnostics.experimental.enable": true,
-  "rust-analyzer.linkedProjects": [
-    "day-01/Cargo.toml",
-    "day-02/Cargo.toml",
-    "day-03/Cargo.toml",
-    "day-04/Cargo.toml",
-    "day-05/Cargo.toml",
-    "day-06/Cargo.toml",
-    "day-07/Cargo.toml",
-    "day-08/Cargo.toml",
-    "day-09/Cargo.toml",
-    "day-10/Cargo.toml",
-    "day-11/Cargo.toml",
-    "day-12/Cargo.toml",
-    "day-13/Cargo.toml",
-    "day-14/Cargo.toml",
-    "day-15/Cargo.toml",
-    "day-16/Cargo.toml",
-    "day-17/Cargo.toml",
-    "day-18/Cargo.toml",
-    "day-19/Cargo.toml",
-    "day-20/Cargo.toml",
-    "day-21/Cargo.toml",
-    "day-22/Cargo.toml",
-    "day-23/Cargo.toml",
-    "day-24/Cargo.toml"
-  ]
+  "rust-analyzer.diagnostics.experimental.enable": true
 }

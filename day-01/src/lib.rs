@@ -15,7 +15,7 @@ fn get_sorted_calories_by_elf(input: &str) -> Vec<u32> {
         .split("\n\n")
         .map(|elf_load| {
             elf_load
-                .split("\n")
+                .lines()
                 .map(|item| item.parse::<u32>().unwrap())
                 .sum::<u32>()
         })
